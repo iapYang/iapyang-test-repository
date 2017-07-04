@@ -1,0 +1,24 @@
+{
+  "name": "iapyang-test-repository",
+  "version": "1.0.0",
+  "description": "test my plugins",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://iapYang@github.com/iapYang/iapyang-test-repository.git"
+  },
+  "author": "iapyang",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-eslint": "^7.2.3",
+    "eslint": "^4.1.1",
+    "eslint-plugin-html": "^3.0.0"
+  },
+  "bugs": {
+    "url": "https://github.com/iapYang/iapyang-test-repository/issues"
+  },
+  "homepage": "https://github.com/iapYang/iapyang-test-repository#readme"
+}
