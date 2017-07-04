@@ -4,7 +4,9 @@
   "description": "test my plugins",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "cli": "iapvt cli",
+    "dev": "iapvt dev",
+    "build": "iapvt build"
   },
   "repository": {
     "type": "git",
@@ -20,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/iapYang/iapyang-test-repository/issues"
   },
-  "homepage": "https://github.com/iapYang/iapyang-test-repository#readme"
+  "homepage": "https://github.com/iapYang/iapyang-test-repository#readme",
+  "dependencies": {
+    "iapyang-vue-template": "file:examples/iapyang-vue-template-0.4.1.tgz"
+  }
 }
