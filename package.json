@@ -24,6 +24,6 @@
   },
   "homepage": "https://github.com/iapYang/iapyang-test-repository#readme",
   "dependencies": {
-    "iapyang-vue-template": "file:examples/iapyang-vue-template-0.4.3.tgz"
+    "iapyang-vue-template": "file:examples/iapyang-vue-template-0.5.5.tgz"
   }
 }
